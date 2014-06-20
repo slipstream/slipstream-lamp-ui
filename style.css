@@ -1,0 +1,15 @@
+img {
+	width: 200px;
+}
+
+.instructions {
+	margin: 20px 200px;
+}
+
+#buttons, #results {
+	margin: 20px 200px;
+}
+
+#results {
+  height: 100px;
+}
