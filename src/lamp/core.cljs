@@ -7,10 +7,10 @@
            [goog Uri]))
 
 (def lb-url-read
-  "http://154.48.152.227/mongoRead.php")
+  "/mongoRead.php")
 
 (def lb-url-write
-  "http://154.48.152.227/mongoWrite.php")
+  "/mongoWrite.php")
 
 (defn listen [el type]
   (let [out (chan)]
