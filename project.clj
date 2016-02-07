@@ -1,6 +1,6 @@
-(defproject lamp "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
-  :url "http://example.com/FIXME"
+(defproject lamp "1.1"
+  :description "display request statistics for LAMP"
+  :url "https://github.com/slipstream/slipstream-lamp-ui"
 
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-2173"]
